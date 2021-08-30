@@ -1,0 +1,6 @@
+Method,URL,Frequency
+POST,/person/add,4
+GET,/person/all,3
+GET,/book/{id},2
+GET,/book/{id}/return,1
+PUT,/book/{id},1

@@ -1,0 +1,21 @@
+Method,URL,Min Time,Max Time,Average Time
+POST,/person/add,60,140,97.25
+GET,/person/all,60,102,86.66666666666667
+GET,/book/{id},57,234,145.5
+GET,/book/{id}/return,45,45,45
+PUT,/book/{id},117,117,117
+GET,/book/{id},67,67,67
+GET,/book/{id},37,37,37
+GET,/person/{id}/details,87,87,87
+GET,/person/{id}/details,35,35,35
+GET,/book/{id}/return,53,53,53
+PUT,/book/{id},123,123,123
+GET,/book/{id}/return,76,76,76
+GET,/book/{id},56,56,56
+GET,/book/{id},110,110,110
+GET,/book/{id}/return,78,78,78
+PUT,/book/{id},20,20,20
+PUT,/book/{id},20,20,20
+GET,/person/{id}/details,78,78,78
+PUT,/book/{id},156,156,156
+PUT,/book/{id},20,20,20
